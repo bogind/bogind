@@ -36,3 +36,4 @@ And not as much anymore in:
 
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](www.linkedin.com/in/dror-bogin/)
 [![](https://img.shields.io/static/v1?label&logo=twitter&message=twitter&style=for-the-badge&color=black)](https://twitter.com/bogind2)
+<a rel="me" href="https://mapstodon.space/@bogind"><img src="https://img.shields.io/static/v1?label&logo=mastodon&message=Mastodon&style=for-the-badge"/></a>
